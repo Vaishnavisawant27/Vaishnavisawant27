@@ -18,24 +18,30 @@ Currently, I'm focused on strengthening my skills in **Android Development, Java
 - ☕ Strong interest in **Java Development**
 - 🌐 Exploring **Full Stack Web Development**
 - 🤖 Experienced in integrating **AI/ML outputs into applications**
-- 🗄️ Interested in databases, APIs, and backend development
+- 🔗 Interested in APIs, backend systems, and database development
 - 🎯 Career Goal: **Software Engineer**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-`Java` `Python` `JavaScript` `C` `SQL`
+### 💻 Programming Languages
 
-### Development & Frameworks
-`Android Studio` `ReactJS` `Node.js` `Firebase` `JSON`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql" />
+</p>
 
-### Tools
-`VS Code` `Android Studio` `GitHub`
+### 📱 Development & Frameworks
 
-### Areas of Expertise
-`Android Development` `Web Development` `API Integration` `Backend Development` `Database Design` `Data Analytics`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,firebase" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+</p>
 
 ---
 
@@ -45,15 +51,16 @@ Currently, I'm focused on strengthening my skills in **Android Development, Java
 
 An AI-powered Android application designed to help farmers monitor crops and identify pest infestations.
 
-**Key Contributions:**
+### Key Contributions
 
 - 📱 Developed a native Android application using **Java and Android Studio**
-- 🎨 Designed clean, responsive, and user-friendly Android interfaces
+- 🎨 Designed clean, responsive, and user-friendly interfaces
 - 🔄 Built multiple screens for crop monitoring and pest detection workflows
 - 🤖 Integrated **AI/ML prediction outputs** into the mobile application
-- 🔗 Worked on connecting backend/model outputs with the Android frontend
-- ⚡ Focused on responsive layouts, intuitive navigation, and application performance
-- 🧹 Followed clean coding practices and Android development standards
+- 🔗 Connected backend/model outputs with the Android frontend
+- 🔥 Worked with **Firebase** for application functionality
+- ⚡ Focused on responsive layouts and optimized application performance
+- 🧹 Followed clean coding and Android development practices
 
 **Technologies:**  
 `Java` `Android Studio` `Firebase` `AI/ML` `API Integration`
@@ -63,14 +70,15 @@ An AI-powered Android application designed to help farmers monitor crops and ide
 ## 💼 Internship Experience
 
 ### Micro Dynamic Software
+
 **App Development Intern | 2 Months**
 
-Worked on the development and testing of application-based projects.
+Worked on application development and testing with hands-on exposure to both frontend and backend technologies.
 
-**Key Areas:**
+**Responsibilities:**
 
 - 📱 Android application development
-- ☕ Java development
+- ☕ Java programming
 - 🎨 UI design and implementation
 - 🔥 Firebase integration
 - 🔗 API integration
@@ -86,27 +94,57 @@ Worked on the development and testing of application-based projects.
 
 ---
 
-## 🎯 Current Interests
+## 🎯 Areas of Interest
 
-- Android Application Development
-- Java Development
-- Full Stack Development
-- Software Engineering
-- Backend & API Development
-- AI/ML Application Integration
+```text
+Android Development
+Java Development
+Full Stack Development
+Software Engineering
+Backend Development
+API Integration
+AI/ML Application Integration
+```
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavisawant27&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavisawant27&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vaishnavisawant27&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/vaishnavi-sawant-73b72a325/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-</p>
 
-📧 **Email:** vaishnavisawant272@gmail.com
+<a href="mailto:vaishnavisawant272@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+## 💡 Developer Mindset
+
+> **Build. Learn. Improve. Repeat.**
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
